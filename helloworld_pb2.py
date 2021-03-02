@@ -12,6 +12,7 @@ _sym_db = _symbol_database.Default()
 
 
 
+
 DESCRIPTOR = _descriptor.FileDescriptor(
   name='helloworld.proto',
   package='helloworld',
